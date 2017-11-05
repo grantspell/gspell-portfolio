@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 import styled from 'styled-components';
 
-// his_style
+// his_styles
 const Wrapper = styled.div`
     height: 100vh;
     width: 100vw;
